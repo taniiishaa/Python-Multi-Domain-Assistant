@@ -20,7 +20,7 @@ This project requires the following Python libraries:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR-REPO-LINK]
+    git clone https://github.com/taniiishaa/Python-Multi-Domain-Assistant/
     cd Multimodal-Voice-Assistant-Project
     ```
 
