@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Dependency files (for easy sharing/re-creation of environment)
+# You might want to include a requirements.txt instead (see bonus step)
